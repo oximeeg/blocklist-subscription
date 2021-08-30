@@ -1,6 +1,7 @@
 *://5.9.10.113/*
 *://ad-generation.jp/*
 *://adult-machiko.com/*
+*://agency-star.co.jp/*
 *://android-note.open-memo.net/*
 *://androidx.de/*
 *://askandroidquestions.com/*
@@ -60,11 +61,14 @@
 *://professnow.com/*
 *://progsoft.net/*
 *://python5.com/*
+*://qiita.com/Kaito-Dogi/*
 *://qiita.com/shira-shun/*
+*://qiita.com/snaka/*
 *://ristorantelibra.it/*
 *://saasinsider.jp/*
 *://salesforce.stackexchange.com/*
 *://samtechnology.org/*
+*://scrapbox.io/*
 *://se.yuttar-ixm.com/*
 *://sites.google.com/*
 *://sndbox.jp/*
@@ -79,6 +83,7 @@
 *://teratail.com/*
 *://theshravan.net/*
 *://tontonafric.com/*
+*://unluckysystems.com/*
 *://vook.vc/*
 *://wandering-engineer.tech/*
 *://webtan.impress.co.jp/*
