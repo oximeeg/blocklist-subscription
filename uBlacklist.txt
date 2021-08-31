@@ -30,6 +30,7 @@
 *://filmora.wondershare.jp/*
 *://fkrs.jp/*
 *://francescacerquozzi.it/*
+*://fukatsu.tech/*
 *://github.com/sergeyhush/ansible-jenkins/*
 *://gitmemory.com/*
 *://high-programmer.com/*
@@ -103,6 +104,7 @@
 *://www.funkyspacemonkey.com/*
 *://www.geeksforgeeks.org/*
 *://www.gitmemory.com/*
+*://www.hostinger.com/*
 *://www.howtonote.jp/*
 *://www.idfa.nl/*
 *://www.iditect.com/*
