@@ -8,6 +8,7 @@
 *://askubuntu.com/*
 *://b.hatena.ne.jp/entry/*
 *://bamka.info/*
+*://bi.biopapyrus.jp/*
 *://blog.lollygag.info/*
 *://blog.mothule.com/*
 *://blog.thingslabo.com/*
@@ -120,6 +121,7 @@
 *://www.reddit.com/*
 *://www.tapjoy.com/*
 *://www.thinbug.com/*
+*://www.titanwolf.org/*
 *://www.tweeeety.blog/*
 *://www.wegottalents.com/*
 *://www.wikihow.com/*
