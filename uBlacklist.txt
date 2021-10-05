@@ -84,11 +84,13 @@
 *://saasinsider.jp/*
 *://salesforce.stackexchange.com/*
 *://samtechnology.org/*
+*://sanattatea.com/*
 *://scrapbox.io/*
 *://se.yuttar-ixm.com/*
 *://sites.google.com/*
 *://sndbox.jp/*
 *://snoto.it/*
+*://soundartifacts.com/*
 *://stackoverrun.com/*
 *://support.appsflyer.com/*
 *://support.jumpdesktop.com/*
@@ -149,6 +151,7 @@
 *://www.yoheim.net/*
 *://xbuba.com/*
 *://xspdf.com/*
+*://y-u-y-a-blog.com/*
 *://zenn.dev/hndr/*
 *://zenn.dev/muhiro12/*
 *://zhuanlan.zhihu.com/*
