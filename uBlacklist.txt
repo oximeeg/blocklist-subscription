@@ -2,9 +2,12 @@
 *://ad-generation.jp/*
 *://adult-machiko.com/*
 *://agency-star.co.jp/*
+*://ameblo.jp/tepo-kan-164/*
 *://android-note.open-memo.net/*
 *://androidx.de/*
 *://app-liv.jp/*
+*://appli-world.jp/*
+*://appllio.com/*
 *://arekayujpja5x.blogspot.com/*
 *://askandroidquestions.com/*
 *://askubuntu.com/*
@@ -61,6 +64,7 @@
 *://iqos919.com/*
 *://itneko.com/*
 *://itome.team/*
+*://ja.hljmj.org/*
 *://ja.ojit.com/*
 *://ja.pays-tarusate.org/*
 *://ja.rockycode.com/*
@@ -99,6 +103,7 @@
 *://oycrd.mediterraneafrutta.it/*
 *://pakuromilove.3rin.net/*
 *://pentan.info/*
+*://pixta.jp/*
 *://professnow.com/*
 *://progsoft.net/*
 *://python5.com/*
@@ -134,6 +139,7 @@
 *://takapon.net/*
 *://takublo.net/*
 *://tatsumarutimes.com/*
+*://tchererelove.blogspot.com/*
 *://teachme.jp/*
 *://tech-camp.in/*
 *://techacademy.jp/*
@@ -150,6 +156,7 @@
 *://wikiwiki.jp/*
 *://wordpress.ideacompo.com/*
 *://www.366service.com/*
+*://www.ac-illust.com/*
 *://www.adoclib.com/*
 *://www.amagallery.net/*
 *://www.apowersoft.jp/*
@@ -177,6 +184,7 @@
 *://www.imobie.jp/*
 *://www.imymac.jp/*
 *://www.iscle.com/*
+*://www.istockphoto.com/*
 *://www.ithack.info/*
 *://www.jianshu.com/*
 *://www.kikschools.org/*
