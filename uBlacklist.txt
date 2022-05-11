@@ -28,6 +28,7 @@
 *://ch.nicovideo.jp/*
 *://cloud6.net/*
 *://cloudstack.ninja/*
+*://cocoacasts.com/*
 *://code-flow.club/*
 *://coderedirect.com/*
 *://d-navi004.com/*
@@ -55,6 +56,7 @@
 *://forums.expo.dev/*
 *://francescacerquozzi.it/*
 *://fukatsu.tech/*
+*://ganohr.net/*
 *://github.com/busterc/*
 *://github.com/sergeyhush/ansible-jenkins/*
 *://gitmemory.com/*
@@ -145,6 +147,7 @@
 *://soundartifacts.com/*
 *://stackoverrun.com/*
 *://styjun.blogspot.com/*
+*://style.potepan.com/*
 *://support.appsflyer.com/*
 *://support.jumpdesktop.com/*
 *://support.teads.tv/*
