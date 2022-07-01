@@ -14,6 +14,7 @@
 *://askubuntu.com/*
 *://atubetu.jp/*
 *://aws.koiwaclub.com/*
+*://azuread.net/*
 *://b.hatena.ne.jp/entry/*
 *://bamka.info/*
 *://bi.biopapyrus.jp/*
@@ -24,6 +25,7 @@
 *://blog.thingslabo.com/*
 *://burnfaith.hatenablog.com/*
 *://burnleague.hatenablog.com/*
+*://cdkm.com/*
 *://ceblog.mediba.jp/*
 *://ch.nicovideo.jp/*
 *://cloud6.net/*
@@ -39,6 +41,7 @@
 *://dev.to/*
 *://dishware.sakura.ne.jp/*
 *://document-*.com/*
+*://domineeringsuppo.blogspot.com/*
 *://donan-rockfes.com/*
 *://droidkaigi.jp/*
 *://earwestern627.weebly.com/*
@@ -49,6 +52,7 @@
 *://factor.xseed.link/*
 *://fans-google.com/*
 *://fantashit.com/*
+*://ferret-plus.com/*
 *://filmora.wondershare.jp/*
 *://fkrs.jp/*
 *://flutterappworld.com/*
@@ -57,6 +61,7 @@
 *://francescacerquozzi.it/*
 *://fukatsu.tech/*
 *://ganohr.net/*
+*://github-wiki-see.page/*
 *://github.com/busterc/*
 *://github.com/sergeyhush/ansible-jenkins/*
 *://gitmemory.com/*
@@ -90,6 +95,7 @@
 *://kiraba.jp/*
 *://knowledge.kofax.com/*
 *://kogepan-official.com/*
+*://live-style.jp/*
 *://m-app.jp/*
 *://m.editcode.net/*
 *://macmost.com/*
@@ -107,8 +113,10 @@
 *://news.mynavi.jp/*
 *://newsletterest.com/*
 *://nokonokonetwork.com/*
+*://nomad.office-aship.info/*
 *://note.com/*
 *://oki2a24.com/*
+*://omega-mode.com/*
 *://omnidazzle.softonic.jp/*
 *://ostack.cn/*
 *://ottomansteak.ru/*
@@ -130,6 +138,8 @@
 *://reiwinn-web.net/*
 *://resocoder.com/*
 *://ristorantelibra.it/*
+*://rust-japan.game-info.wiki/*
+*://rust.craftpedia.net/*
 *://saasinsider.jp/*
 *://salesforce.stackexchange.com/*
 *://samtechnology.org/*
@@ -144,6 +154,7 @@
 *://smartphone-sim-wifi.info/*
 *://sndbox.jp/*
 *://snoto.it/*
+*://softmoco.com/*
 *://soundartifacts.com/*
 *://stackoverrun.com/*
 *://styjun.blogspot.com/*
@@ -164,12 +175,14 @@
 *://techtarget.itmedia.co.jp/*
 *://teratail.com/*
 *://theshravan.net/*
+*://ticklecode.com/*
 *://tontonafric.com/*
 *://tutorials.techgaku.com/*
 *://unluckysystems.com/*
 *://vook.vc/*
 *://wandering-engineer.tech/*
 *://webtan.impress.co.jp/*
+*://wiki.denfaminicogamer.jp/*
 *://wikiwiki.jp/*
 *://wordpress.ideacompo.com/*
 *://www.366service.com/*
@@ -183,6 +196,7 @@
 *://www.big-bad-monsters.jp/*
 *://www.codegrepper.com/*
 *://www.codetd.com/*
+*://www.codingem.com/*
 *://www.codota.com/*
 *://www.cyclonis.com/*
 *://www.damirscorner.com/*
@@ -234,6 +248,7 @@
 *://xn--2-v9tt97kv71a87vjzp.com/*
 *://xn--pckwb0czdr361aguh.jp/*
 *://xn--wck2f330hpitfkztubd73do4c.com/*
+*://xn--zck9awe6d820vk6qg9be46k.com/*
 *://xspdf.com/*
 *://y-u-y-a-blog.com/*
 *://zenn.dev/hndr/*
