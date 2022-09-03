@@ -21,18 +21,22 @@
 *://blog.azyobuzi.net/*
 *://blog.eppz.eu/*
 *://blog.lollygag.info/*
+*://blog.masahiko.info/*
 *://blog.mothule.com/*
 *://blog.thingslabo.com/*
+*://br.atsit.in/*
 *://burnfaith.hatenablog.com/*
 *://burnleague.hatenablog.com/*
 *://cdkm.com/*
 *://ceblog.mediba.jp/*
 *://ch.nicovideo.jp/*
+*://clipgrab.jp.uptodown.com/*
 *://cloud6.net/*
 *://cloudstack.ninja/*
 *://cocoacasts.com/*
 *://code-flow.club/*
 *://coderedirect.com/*
+*://crcup.jp/*
 *://d-navi004.com/*
 *://dartcode.org/*
 *://designcode.io/*
@@ -72,6 +76,7 @@
 *://horsesteel.weebly.com/*
 *://ichi.pro/*
 *://infini-lab.com/*
+*://info.securesamba.com/*
 *://iosgods.com/*
 *://iqos919.com/*
 *://istitutogalileoferraris.it/*
@@ -84,7 +89,9 @@
 *://ja.rockycode.com/*
 *://javaba.tistory.com/*
 *://johnnn.tech/*
+*://johotaxi.com/*
 *://jp.linkedin.com/*
+*://jpstreamer.com/*
 *://juejin.cn/*
 *://juggly.cn/*
 *://kandi.openweaver.com/*
@@ -115,6 +122,7 @@
 *://nokonokonetwork.com/*
 *://nomad.office-aship.info/*
 *://note.com/*
+*://ogawadan.com/*
 *://oki2a24.com/*
 *://omega-mode.com/*
 *://omnidazzle.softonic.jp/*
@@ -140,6 +148,7 @@
 *://ristorantelibra.it/*
 *://rust-japan.game-info.wiki/*
 *://rust.craftpedia.net/*
+*://saas.imitsu.jp/*
 *://saasinsider.jp/*
 *://salesforce.stackexchange.com/*
 *://samtechnology.org/*
@@ -156,6 +165,7 @@
 *://snoto.it/*
 *://softmoco.com/*
 *://soundartifacts.com/*
+*://springhack.com/*
 *://stackoverrun.com/*
 *://styjun.blogspot.com/*
 *://style.potepan.com/*
@@ -164,6 +174,7 @@
 *://support.teads.tv/*
 *://suumo.jp/*
 *://swiftui-lab.com/*
+*://tadatabilife.hatenablog.com/*
 *://takapon.net/*
 *://takublo.net/*
 *://tatsumarutimes.com/*
@@ -178,8 +189,10 @@
 *://ticklecode.com/*
 *://tontonafric.com/*
 *://tutorials.techgaku.com/*
+*://udemy.benesse.co.jp/*
 *://unluckysystems.com/*
 *://vook.vc/*
+*://wagtechblog.com/*
 *://wandering-engineer.tech/*
 *://webtan.impress.co.jp/*
 *://wiki.denfaminicogamer.jp/*
@@ -201,6 +214,7 @@
 *://www.cyclonis.com/*
 *://www.damirscorner.com/*
 *://www.diffchecker.com/*
+*://www.excite.co.jp/*
 *://www.findbestopensource.com/*
 *://www.funkyspacemonkey.com/*
 *://www.geeksforgeeks.org/*
@@ -251,6 +265,7 @@
 *://xn--zck9awe6d820vk6qg9be46k.com/*
 *://xspdf.com/*
 *://y-u-y-a-blog.com/*
+*://youtubedownload.minitool.com/*
 *://zenn.dev/hndr/*
 *://zenn.dev/muhiro12/*
 *://zhuanlan.zhihu.com/*
