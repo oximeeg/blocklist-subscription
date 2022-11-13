@@ -19,17 +19,20 @@
 *://bamka.info/*
 *://bi.biopapyrus.jp/*
 *://blog.azyobuzi.net/*
+*://blog.csdn.net/*
 *://blog.eppz.eu/*
 *://blog.lollygag.info/*
 *://blog.masahiko.info/*
 *://blog.mothule.com/*
 *://blog.thingslabo.com/*
+*://bootpanic.com/*
 *://br.atsit.in/*
 *://burnfaith.hatenablog.com/*
 *://burnleague.hatenablog.com/*
 *://cdkm.com/*
 *://ceblog.mediba.jp/*
 *://ch.nicovideo.jp/*
+*://chusotsu-program.com/*
 *://clipgrab.jp.uptodown.com/*
 *://cloud6.net/*
 *://cloudstack.ninja/*
@@ -50,6 +53,7 @@
 *://droidkaigi.jp/*
 *://earwestern627.weebly.com/*
 *://edupro.id/*
+*://eh-career.com/*
 *://enproceso.atlassoftware.uy/*
 *://entabe.jp/*
 *://erikviotti.it/*
@@ -87,6 +91,7 @@
 *://ja.ojit.com/*
 *://ja.pays-tarusate.org/*
 *://ja.rockycode.com/*
+*://japan.appeon.com/*
 *://javaba.tistory.com/*
 *://johnnn.tech/*
 *://johotaxi.com/*
@@ -119,6 +124,7 @@
 *://newbedev.com/*
 *://news.mynavi.jp/*
 *://newsletterest.com/*
+*://newspatrak.com/*
 *://nokonokonetwork.com/*
 *://nomad.office-aship.info/*
 *://note.com/*
@@ -129,10 +135,12 @@
 *://ostack.cn/*
 *://ottomansteak.ru/*
 *://ounziw.com/*
+*://overworker.hatenablog.jp/*
 *://oycrd.mediterraneafrutta.it/*
 *://pakuromilove.3rin.net/*
 *://pentan.info/*
 *://pixta.jp/*
+*://poyaran.com/*
 *://professnow.com/*
 *://progsoft.net/*
 *://python5.com/*
@@ -143,8 +151,10 @@
 *://qiita.com/oh_rusty_nail/*
 *://qiita.com/shira-shun/*
 *://qiita.com/snaka/*
+*://ranking.net/*
 *://reiwinn-web.net/*
 *://resocoder.com/*
+*://resultfor.dev/*
 *://ristorantelibra.it/*
 *://rust-japan.game-info.wiki/*
 *://rust.craftpedia.net/*
@@ -154,6 +164,7 @@
 *://samtechnology.org/*
 *://sanattatea.com/*
 *://sanjibsinha.com/*
+*://saru.co.jp/*
 *://sbmbusiness.in/*
 *://scrapbox.io/*
 *://se.yuttar-ixm.com/*
@@ -173,8 +184,10 @@
 *://support.jumpdesktop.com/*
 *://support.teads.tv/*
 *://suumo.jp/*
+*://swiftobc.com/*
 *://swiftui-lab.com/*
 *://tadatabilife.hatenablog.com/*
+*://tadtadya.com/*
 *://takapon.net/*
 *://takublo.net/*
 *://tatsumarutimes.com/*
@@ -187,6 +200,7 @@
 *://teratail.com/*
 *://theshravan.net/*
 *://ticklecode.com/*
+*://titanium.dzzd.net/*
 *://tontonafric.com/*
 *://tutorials.techgaku.com/*
 *://udemy.benesse.co.jp/*
@@ -198,6 +212,7 @@
 *://wiki.denfaminicogamer.jp/*
 *://wikiwiki.jp/*
 *://wordpress.ideacompo.com/*
+*://www-creators.com/*
 *://www.366service.com/*
 *://www.ac-illust.com/*
 *://www.adoclib.com/*
@@ -213,6 +228,7 @@
 *://www.codota.com/*
 *://www.cyclonis.com/*
 *://www.damirscorner.com/*
+*://www.dese.gov.au/*
 *://www.diffchecker.com/*
 *://www.excite.co.jp/*
 *://www.findbestopensource.com/*
@@ -238,6 +254,7 @@
 *://www.mantese.it/*
 *://www.ncaq.net/*
 *://www.ndchost.com/*
+*://www.oki-ana.com/*
 *://www.paveway.info/*
 *://www.pinterest.com/*
 *://www.positivecrave.com/*
