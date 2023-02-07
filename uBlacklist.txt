@@ -25,6 +25,7 @@
 *://blog.masahiko.info/*
 *://blog.mothule.com/*
 *://blog.thingslabo.com/*
+*://book.mynavi.jp/*
 *://bootpanic.com/*
 *://br.atsit.in/*
 *://burnfaith.hatenablog.com/*
@@ -103,16 +104,20 @@
 *://katsfreelife.blog/*
 *://katsuoji.hatenadiary.jp/*
 *://keikenchi.com/*
+*://kenjimorita.jp/*
 *://kiaphantart.com/*
 *://kiraba.jp/*
 *://knowledge.kofax.com/*
 *://kogepan-official.com/*
+*://levelup.gitconnected.com/*
+*://lightrun.com/*
 *://live-style.jp/*
 *://m-app.jp/*
 *://m.editcode.net/*
 *://macmost.com/*
 *://mashmallowhoge.hateblo.jp/*
 *://microeducate.tech/*
+*://miniwebtool.com/*
 *://minpro.net/*
 *://mobile.inest-inc.co.jp/*
 *://morioh.com/*
@@ -252,6 +257,7 @@
 *://www.kikschools.org/*
 *://www.kotalog.net/*
 *://www.mantese.it/*
+*://www.mochinoki-labo.com/*
 *://www.ncaq.net/*
 *://www.ndchost.com/*
 *://www.oki-ana.com/*
@@ -269,6 +275,7 @@
 *://www.thinbug.com/*
 *://www.titanwolf.org/*
 *://www.tweeeety.blog/*
+*://www.ukulog.com/*
 *://www.wankeauto.com/*
 *://www.wegottalents.com/*
 *://www.wikihow.com/*
@@ -285,4 +292,5 @@
 *://youtubedownload.minitool.com/*
 *://zenn.dev/hndr/*
 *://zenn.dev/muhiro12/*
+*://zero2014.blog.fc2.com/*
 *://zhuanlan.zhihu.com/*
