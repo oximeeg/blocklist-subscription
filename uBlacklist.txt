@@ -19,11 +19,10 @@
 *://*.finxter.com/*
 *://*.fortune.com/*
 *://*.fourm.jp/*
+*://*.fumo-shop.com/*
 *://*.genzouw.com/*
 *://*.gree.net/*
 *://*.hackernoon.com/*
-*://*.hatenablog.com/*
-*://*.hatenablog.jp/*
 *://*.hirocorpblog.com/*
 *://*.inkdrop.app/*
 *://*.intel.co.jp/*
@@ -38,6 +37,7 @@
 *://*.kotlin-academy.com/*
 *://*.libhunt.com/*
 *://*.lifewithpython.com/*
+*://*.lolninja.net/*
 *://*.mahjong-dora2.com/*
 *://*.mahjongcollege.com/*
 *://*.mahjongsoul.info/*
@@ -45,6 +45,7 @@
 *://*.medium.com/@Asdheeraj/*
 *://*.mj-dragon.com/*
 *://*.mj-station.net/*
+*://*.nablarch.github.io/*
 *://*.nekonecode.com/*
 *://*.odn.ne.jp/*
 *://*.okaryo.io/*
