@@ -1,9 +1,9 @@
 
-# Search Results
+# [uBlacklist](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
 
 ### ublacklist
 ```
-https://raw.githubusercontent.com/oximeeg/ublacklist-subscription/main/uBlacklist.txt
+https://raw.githubusercontent.com/oximeeg/blocklist-subscription/main/uBlacklist.txt
 ```
 
 ### github-translation
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/proudust/uBlacklist-Subscription/master/blackl
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/uBlacklist.txt
 ```
 
-# Youtube
+# [YTBlock](https://addons.mozilla.org/en-US/firefox/addon/yt-block/)
 ```
 https://raw.githubusercontent.com/berkaygediz/universal-blocklist/refs/heads/main/ytblock-channels.txt
 ```
